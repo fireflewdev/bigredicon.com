@@ -1,16 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
+
+/*@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.ttf') format('truetype');
+  }*/
 
 body{
     
     background-color: #B31B1B;
-    font-family: Montserrat;
-    
+    /*font-family: Montserrat;*/
+
 }
 
 h1 {
     color: black;
     text-align: center;
-    font-weight: 900;
+    font-weight: 500;
     font-size: 60px;
 }
 

@@ -5,6 +5,11 @@
     src: url('Montserrat-Regular.ttf') format('truetype');
   }*/
 
+  @font-face {
+    font-family: "MontserratEB";
+    src: url("res/Montserrat/Montserrat-ExtraBold.ttf");
+}
+
 body{
     
     background-color: #B31B1B;
@@ -16,7 +21,8 @@ h1 {
     color: black;
     text-align: center;
     font-weight: 500;
-    font-size: 60px;
+    font-size: 55px;
+    font-family: "MontserratEB"
 }
 
 h2 {

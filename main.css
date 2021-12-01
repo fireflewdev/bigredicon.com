@@ -49,7 +49,6 @@ h2 {
 }
 
 #sponsors {
-
     padding-top: 40px;
     padding-bottom: 10%;
     padding-right: 10%;
@@ -58,8 +57,29 @@ h2 {
 
 #sponsorsjb {
     background-color: #FFFFFF;
-
 }
+
+#buttondiv{
+    text-align: center; 
+    padding: 10px 10px;
+}
+
+button {
+    color: #FFFFFF;
+    background-color: #B31B1B;
+    border: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight:bolder;
+
+
+    width:50%;
+    padding: 2% 2%;
+}
+
+button:hover, button:active {
+    background-color: red;
+  }
 
 .center {
     width: 150px;
@@ -75,7 +95,5 @@ h2 {
 }
 
 .jumbotron{
-
     background-color:white;
-
 }

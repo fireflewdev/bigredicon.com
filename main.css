@@ -64,7 +64,7 @@ h2 {
     padding: 10px 10px;
 }
 
-button {
+button.sub {
     color: #FFFFFF;
     background-color: #B31B1B;
     border: none;
@@ -77,7 +77,7 @@ button {
     padding: 2% 2%;
 }
 
-button:hover, button:active {
+button.sub:hover, button.sub:active {
     background-color: red;
   }
 

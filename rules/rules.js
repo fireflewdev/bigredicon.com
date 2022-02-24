@@ -27,7 +27,7 @@ function addRule(header, content) {
 }
 
 addRule("Music Group Eligibility",
-    `<p>Any Cornell Music Group is eligible to enter Big Red Idol: Slope Day's Next Top Band. A Music Group must fufill the following requirements:</p>
+    `<p>Any Cornell Music Group is eligible to enter Big Red Icon: Slope Day's Next Top Band. A Music Group must fufill the following requirements:</p>
     
     <ul>
         <li>

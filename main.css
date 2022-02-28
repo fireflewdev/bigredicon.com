@@ -11,8 +11,12 @@
 }
 
 body{
-    
-    background-color: #B31B1B;
+    background: url("res/concertbackgroundr2.png");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+    /*background-color: #B31B1B;*/
     /*font-family: Montserrat;*/
 
 }

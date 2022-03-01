@@ -105,3 +105,8 @@ button.sub:hover, button.sub:active {
 .jumbotron{
     background-color:white;
 }
+
+.column {
+    float: left;
+    width: 50%;
+    }

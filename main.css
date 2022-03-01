@@ -102,6 +102,13 @@ button.sub:hover, button.sub:active {
     padding-left: 10px;
 }
 
+.bricenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
 .jumbotron{
     background-color:white;
 }

@@ -44,7 +44,7 @@ addRule("Video Submission Rules",
     `<p>Please send your submissions in video form! Make sure they meet the following requirements:</p>
     
     <ul>
-        <li>Video submissions must be received by February 11th at 11:59pm in order to be eligible</li>
+        <li>Video submissions must be received by December 19th at 11:59pm in order to be eligible</li>
         <li>A video submission must be under 10 minutes in duration and two songs must be performed in order to be eligible</li>
         <li>It is greatly encouraged that every band submits a performance of at least one original song</li>
         <li>A video submission may not be edited in such a way that the performance cannot be recreated live (i.e. no splicing takes, only one camera angle, no video or audio effects that are not achievable in a live setting, no autotune, etc. Samples or other sources of pre-recorded material must be triggered live on video)</li>
